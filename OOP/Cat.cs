@@ -8,7 +8,7 @@ namespace ZooOOP
     {
         public Cat()
         {
-            tam = true;
+            navn = kattnavn;
         }
     }
 }
